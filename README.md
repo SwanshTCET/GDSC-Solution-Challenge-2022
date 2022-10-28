@@ -16,3 +16,4 @@ Please refer to each project's style and contribution guidelines for submitting 
 
   
   NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+  FEEL FREE TO CONTACT US ON LINKEDIN FOR ANY QUERIES.
